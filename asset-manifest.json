@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://cloudomcs.github.io/csb-2kvt5/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://cloudomcs.github.io/csb-2kvt5/static/js/main.c03eaa4b.chunk.js",
+    "main.js.map": "https://cloudomcs.github.io/csb-2kvt5/static/js/main.c03eaa4b.chunk.js.map",
+    "runtime-main.js": "https://cloudomcs.github.io/csb-2kvt5/static/js/runtime-main.e10e1b6a.js",
+    "runtime-main.js.map": "https://cloudomcs.github.io/csb-2kvt5/static/js/runtime-main.e10e1b6a.js.map",
+    "static/js/2.6487861b.chunk.js": "https://cloudomcs.github.io/csb-2kvt5/static/js/2.6487861b.chunk.js",
+    "static/js/2.6487861b.chunk.js.map": "https://cloudomcs.github.io/csb-2kvt5/static/js/2.6487861b.chunk.js.map",
+    "index.html": "https://cloudomcs.github.io/csb-2kvt5/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://cloudomcs.github.io/csb-2kvt5/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.6487861b.chunk.js.LICENSE.txt": "https://cloudomcs.github.io/csb-2kvt5/static/js/2.6487861b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e10e1b6a.js",
+    "static/js/2.6487861b.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.c03eaa4b.chunk.js"
+  ]
+}
